@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Source Code Pro', monospace, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: pink;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+p {
+  font-size: 18px;
+}
